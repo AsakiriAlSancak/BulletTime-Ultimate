@@ -1,0 +1,114 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	"Addon.BulletTime_Loop" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/370632__karolist__slow-motion-sound.vsnd",
+			"sounds/242889__samesamesame__rain-from-indoors-perfect-loop.vsnd"
+		]
+	}	
+	"Addon.BulletTime_Heartbeat_01" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/heartbeat-sound-effect-111218.vsnd"
+		]
+	}
+	"Addon.BulletTime_Startup_01" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/366092__bevibeldesign__quick-zoom-slow-down.vsnd"
+		]
+	}
+	"Addon.BulletTime_Ending_01" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/366092__bevibeldesign__quick-zoom-slow-down_ending.vsnd"
+		]
+	}
+	"Addon.BulletTime_Startup_02" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/332410__robinhood76__06152-abyss-transition.vsnd"
+		]
+	}
+	"Addon.BulletTime_Ending_02" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/332410__robinhood76__06152-abyss-transition_ending.vsnd"
+		]
+	}
+	"Addon.BulletTime_Startup_03" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/459359__singlecoil__great-fx-transition.vsnd"
+		]
+	}
+	"Addon.BulletTime_Ending_03" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.0
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/459359__singlecoil__great-fx-transition_ending.vsnd"
+		]
+	}
+	"Addon.BulletTime_Startup_04" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.7
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/462879__newagesoup__long-ethereal-woosh.vsnd"
+		]
+	}
+	"Addon.BulletTime_Ending_04" = 
+	{
+		type = "hlvr_music_2d"
+		volume = 1.7
+		volume_fade_out = 1
+		volume_fade_in = 0
+		vsnd_files = 
+		[
+			"sounds/462879__newagesoup__long-ethereal-woosh_ending.vsnd"
+		]
+	}
+}
